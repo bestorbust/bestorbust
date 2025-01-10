@@ -5,8 +5,9 @@ I'm a **BTech student at RV University**, passionate about **data analysis**, **
 ---
 
 ## 📫 Connect With Me  
-- **LinkedIn**: [Priyadarshini P](https://www.linkedin.com/in/your-profile)  
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
+- **LinkedIn**: [Priyadarshini P](https://www.linkedin.com/in/priya-darshini-p-btech27/)  
+- **GitHub**: [github.com/yourusername](https://github.com/bestorbust)
+- **Portfolio**:[Priyatechspace](https://priyatechspace.netlify.app/).
 
 ---
 
